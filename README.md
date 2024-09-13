@@ -1,1 +1,1 @@
-# QGSS24_Lab-2-Hardware-Noise
+# This code repository contains the completed code of implementation of the "Hardware Noise", provided by the Qiskit Global Summer School 2024: The Path to Utility. This lab focuses on understanding and managing hardware noise in quantum circuits, equipping participants with essential techniques for working with noisy quantum devices.
